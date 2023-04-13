@@ -19,7 +19,7 @@ namespace Doc_pdf_generator
         private string _rayon = "";
         private string _adres = "";
         private string _FIO = "";
-        private string _proectirovshic = "Уваров Андрей Викторович +7(981)847-04-06";
+        private string _proectirovshic = "";
         private string _pasport = "";
 
         public string Rayon { get { return _rayon; } set { _rayon = value; OnPropertyChanged(); } }
