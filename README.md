@@ -1,1 +1,1 @@
-# Doc-pdf_generator
+# Генератор документов doc и pdf
